@@ -3,7 +3,7 @@ const LinksSocialMedia = {
   facebook: 'profile.php?id=100011513947810',
   youtube: 'channel/UCNTUjV_bnhSFdKJlKCrMeMw/featured',
   instagram: 'vieira.lucas1',
-  twitter: 'LucasVi60585262'
+  twitter: 'LucasVi06585262'
 }
 
 function changeSocialMediaLinks() {
